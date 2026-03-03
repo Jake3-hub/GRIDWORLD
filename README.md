@@ -47,12 +47,12 @@ Ensure you have Python 3 installed.
 
 ### 2. Clone the Repository
 bash
-git clone https://github.com/your-username/q-learning-gridworld.git
-cd q-learning-gridworld
+git clone https://github.com/your-username/GRIDWORLD.git
+cd GRIDWORLD
 
 ### 3. Install Dependencies
 This project requires numpy and pygame.
 pip install numpy pygame
 
 ### 4. Run the Script
-python main.py
+python grid_world_qlearning.py
